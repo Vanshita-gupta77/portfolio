@@ -24,7 +24,6 @@ import {
   SiPython,
   SiRedux,
   SiTailwindcss,
-  SiVisualstudio,
 } from "react-icons/si";
 import { MdEmail, MdLocalPhone } from "react-icons/md";
 
